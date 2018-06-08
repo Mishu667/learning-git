@@ -1,28 +1,17 @@
-<<<<<<< HEAD
-Dibakar Sutradhar
-S M Shahadat Hossain
-Reduanul Houque Munna
-Ar Rolin
-Niraj Paudel
-Tanvir Faisal Moon
-Sagar Neupane
-Yadav Lamechane
-=======
 ===========================
-|| Dibakar Sutradhar     ||
+|| Dibakar Sutradhar     || Cumilla, Bangladesh
 ===========================
-|| S M Shahadat Hossain  ||
+|| S M Shahadat Hossain  || Cumilla, Bangladesh
 ===========================
-|| Reduanul Houque Munna ||
+|| Reduanul Houque Munna || Chattogram, Bangladesh
 ===========================
-|| Ar Rolin              ||
+|| Ar Rolin              || Dhaka, Bangladesh
 ===========================
-|| Niraj Paudel          ||
+|| Niraj Paudel          || Pokhara, Nepal
 ===========================
-|| Tanvir Faisal Moon    ||
+|| Tanvir Faisal Moon    || Cumilla, Bangladesh
 ===========================
-|| Sagar Neupane         ||
+|| Sagar Neupane         || Kathmandu, Bangladesh
 ===========================
-|| Yadav Lamechane       ||
+|| Yadav Lamechane       || Kharar, Punjab, India
 ===========================
->>>>>>> table-version
